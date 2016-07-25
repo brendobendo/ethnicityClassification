@@ -1,0 +1,8 @@
+-----------Classification steps for john backus---------------
+1. lname: (0, ('white', 0.8789), 'lname_search')
+2. fname: (0, ('white', 0.5236593059936908), 'fname_search')
+3. bayes: (0, ('white', 0.8886240091117561), 'bayes')
+4. ngram: (1, ('white', 0.98990833051170624), 'ml-model')
+5. patsearch: (0, ('none', 0))
+6. dist: (0, ('none', 0))
+FINAL RESULT: (1, ('white', 0.98990833051170624), 'ml-model')
